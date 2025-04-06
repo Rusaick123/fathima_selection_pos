@@ -70,7 +70,7 @@
       <!-- Chart (Reduced Height) -->
       <div class="bg-white/30 dark:bg-gray-800/30 backdrop-blur-md p-6 rounded-2xl shadow-lg">
         <h3 class="text-lg font-semibold text-gray-700 dark:text-gray-300 mb-4">Sales Overview</h3>
-        <canvas id="salesChart" class="h-48 md:h-64"></canvas>
+        <canvas id="salesChart" class="h-30 md:h-30"></canvas>
       </div>
     </main>
   </div>
